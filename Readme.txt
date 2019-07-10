@@ -17,6 +17,8 @@ Yuhan Liu
 Alexandre Gracias : https://github.com/LinebakeR
 
 
+Note : 18/20
+
 *****************************************************************************************
 
 End of Training Project - Uncover Project
@@ -36,3 +38,5 @@ Thibaud Levy (Scrum Master 3rd week)
 Ronan Perrier (Scrum Master 2nd Week)
 Yuhan Liu
 Alexandre Gracias: https://github.com/LinebakeR
+
+Rating: 18/20
