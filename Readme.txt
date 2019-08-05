@@ -13,7 +13,7 @@ Scrum Master du projet sur la 1ère semaine.
 Réalisé avec :
 Thibaud Levy (Scrum Master 3ème semaine)
 Ronan Perrier (Scrum Master 2ème semaine)
-Yuhan Liu
+Yuhan Liu : https://github.com/liu-yuhan
 Alexandre Gracias : https://github.com/LinebakeR
 
 
