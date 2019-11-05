@@ -22,7 +22,7 @@
     "express": "^4.17.0",
     "express-validator": "^5.3.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "react-donut-chart": "^1.1.8",
     "react-mailto": "^0.4.0"
   },
